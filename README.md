@@ -21,10 +21,11 @@ Before running this project, make sure you have the following installed:
 
 2.Install dependencies:
 pip install openai
+
 3.Set up your OpenAI API key:
 Replace 'sk-proj-XXXXXXXXXXXXXXXXXXXXXXXXXXXX' with your actual API key in the script.
 
-Usage
+## Usage
 Run the chatbot using:
 python chatbot.py
 
