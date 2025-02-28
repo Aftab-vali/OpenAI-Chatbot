@@ -33,10 +33,15 @@ python chatbot.py
 -Example Interaction
 
 You: Hello
+
 Chatbot: Hi! How can I assist you today?
+
 You: What is AI?
+
 Chatbot: AI stands for Artificial Intelligence, which refers to the simulation of human intelligence in machines.
+
 You: exit
+
 Chatbot: Goodbye!
 
 ## License & Disclaimer
